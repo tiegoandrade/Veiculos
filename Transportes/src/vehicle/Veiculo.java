@@ -1,6 +1,6 @@
 package vehicle;
 
-public class Veiculo {
+public abstract class Veiculo {
 	
 	// Atributo da classe.
 	private boolean ligado;
